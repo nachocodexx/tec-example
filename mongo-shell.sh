@@ -1,0 +1,1 @@
+mongo "mongodb+srv://cluster0-sbtow.mongodb.net/tecdb" --username root
