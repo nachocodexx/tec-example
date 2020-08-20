@@ -9,7 +9,7 @@
     "@types/graphql": "^14.2.2",
     "apollo-server": "^2.6.9",
     "apollo-server-express": "^2.9.7",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "class-validator": "^0.9.1",
     "graphql": "^14.4.2",
     "jsonwebtoken": "^8.5.1",
